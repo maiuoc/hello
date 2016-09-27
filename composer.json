@@ -2,12 +2,14 @@
     "name": "maiuoc/hello",
     "description": "test",
     "type": "project",
-	"version": "1.0.2",
+	"version": "1.0.3",
+	"homepage": "https://github.com/maiuoc/hello",
 	"license": "uoc",
     "authors": [
         {
             "name": "maiuoc",
-            "email": "maiuoc.k8c@gmail.com"
+            "email": "maiuoc.k8c@gmail.com",
+			"homepage": "https://github.com/maiuoc/hello",
         }
     ],
     "minimum-stability": "dev",
