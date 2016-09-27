@@ -3,6 +3,7 @@
     "description": "test",
     "type": "project",
 	"version": "1.0.0",
+	"license": "uoc",
     "authors": [
         {
             "name": "maiuoc",
