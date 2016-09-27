@@ -3,13 +3,11 @@
     "description": "test",
     "type": "project",
 	"version": "1.0.3",
-	"homepage": "https://github.com/maiuoc/hello",
 	"license": "uoc",
     "authors": [
         {
             "name": "maiuoc",
-            "email": "maiuoc.k8c@gmail.com",
-			"homepage": "https://github.com/maiuoc/hello",
+            "email": "maiuoc.k8c@gmail.com"
         }
     ],
     "minimum-stability": "dev",
